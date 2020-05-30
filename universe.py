@@ -99,5 +99,5 @@ async def on_ready():
     print('Created by Tejas')
 
     
-client.run("NzE2MjE0MDU0NDE4MzgyODcw.XtIi2g.Sr9oWKoq6v6lEo2UObnP-bs8K2s")                
+client.run("NzE2MjE0MDU0NDE4MzgyODcw.XtIjeA.fvRcIuflRQbLkvxBi8_OAjAT3aU")                
 
