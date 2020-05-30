@@ -11,7 +11,7 @@ import time
 client = commands.Bot(command_prefix = '!', case_insensitive=True)
 Client = discord.client
 Clientdiscord = discord.Client()
-devs=["536589241757728809","536589241757728809"]
+devs=["685045217040269315","685045217040269315"]
 
 
 
@@ -99,5 +99,5 @@ async def on_ready():
     print('Created by Tejas')
 
     
-client.run("BOT TOKEN")                
+client.run("NzE2MjE0MDU0NDE4MzgyODcw.XtIhHw.cYZn-HRyEZsHSuhJV_2Pdizf0n4")                
 
